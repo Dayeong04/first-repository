@@ -7,4 +7,3 @@ def maxProfit_bruteforce (prices):
 
    return
 
-print(maxProfit_bruteforce(5))
