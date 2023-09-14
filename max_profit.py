@@ -7,3 +7,5 @@ def maxProfit_bruteforce (prices):
 
    return
 
+print(maxProfit_bruteforce(1,2,3))
+
